@@ -38,7 +38,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Software Engineer"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -52,7 +52,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
-  author="John Doe"
+  author="Andrew Garvin"
 
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
@@ -71,14 +71,24 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "github"
     url = "https://github.com/budmin"
 
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/andrew-garvin"
+
 [menu]
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
+
+    [[menu.main]]
+    name = "Software"
+    url = "software/"
+    weight = 15
+
+    [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
