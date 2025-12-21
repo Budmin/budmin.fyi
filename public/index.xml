@@ -7,7 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 22:10:28 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 14 Dec 2025 22:10:28 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My name is Andrew Garvin and I’m a full-stack software developer from Orlando Florida. I find software to&#xA;be a unique craft that I love improving on, and learning new ways to solve hard problems.&#xA;Most of my projects are in languages you&amp;rsquo;d expect (Python, TypeScript, Ruby, Go), but I&amp;rsquo;m always trying&#xA;different programming languages to see how they differ and what makes a language &amp;ldquo;good&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently tinkering with functional programming in Elixir and Scala.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
