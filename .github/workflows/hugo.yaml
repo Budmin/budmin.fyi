@@ -63,6 +63,7 @@ jobs:
                   echo "Go: $(go version)"
                   echo "Hugo: $(hugo version)"
                   echo "Node.js: $(node --version)"
+                  echo "Base URL: ${{ steps.pages.outputs.base_url }}"
             - name: Install Node.js dependencies
               run: |
                   [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
@@ -81,6 +82,7 @@ jobs:
                   hugo \
                     --gc \
                     --minify \
+                    --baseURL "${{ steps.pages.outputs.base_url }}/" \
                     --ignoreCache
             - name: Cache save
               id: cache-save
