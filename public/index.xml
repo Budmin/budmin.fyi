@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 22:10:28 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 09:58:34 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sat, 27 Dec 2025 09:58:34 -0500</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rubyforgood/casa/commits?author=budmin&#34;&gt;Casa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rubyforgood/human-essentials/commits?author=budmin&#34;&gt;Human Essentials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
