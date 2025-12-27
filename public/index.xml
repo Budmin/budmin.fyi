@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Garvin</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/budmin.fyi/</link>
     <description>Recent content on Andrew Garvin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 27 Dec 2025 09:58:34 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/budmin.fyi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:1313/budmin.fyi/projects/</link>
       <pubDate>Sat, 27 Dec 2025 09:58:34 -0500</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:1313/budmin.fyi/projects/</guid>
       <description>&lt;h3 id=&#34;contributions&#34;&gt;Contributions&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rubyforgood/casa/commits?author=budmin&#34;&gt;Casa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rubyforgood/human-essentials/commits?author=budmin&#34;&gt;Human Essentials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/budmin.fyi/about/</link>
       <pubDate>Sun, 14 Dec 2025 22:10:28 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/budmin.fyi/about/</guid>
       <description>&lt;p&gt;My name is Andrew Garvin and I’m a full-stack software developer from Orlando Florida. I find software to&#xA;be a unique craft that I love improving on, and learning new ways to solve hard problems.&#xA;Most of my projects are in languages you&amp;rsquo;d expect (Python, TypeScript, Ruby, Go), but I&amp;rsquo;m always trying&#xA;different programming languages to see how they differ and what makes a language &amp;ldquo;good&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently tinkering with functional programming in Elixir and Scala.&lt;/p&gt;</description>
     </item>
   </channel>
