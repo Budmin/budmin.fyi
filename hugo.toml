@@ -1,4 +1,5 @@
-baseURL = "https://budmin.github.io/budmin.fyi/"
+# baseURL = "http://example.com/"
+absURL = ""
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Andrew Garvin"
