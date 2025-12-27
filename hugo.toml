@@ -1,5 +1,4 @@
-# baseURL = "http://example.com/"
-absURL = ""
+baseURL = "http://example.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Andrew Garvin"
