@@ -1,6 +1,6 @@
-# baseURL = "https://budmin.github.io/budmin.fyi/"
+# baseURL = "https://budmin.fyi/"
 # baseURL = "/budmin.fyi"
-baseURL = "https://budmin.github.io/budmin.fyi/"
+baseURL = "https://budmin.fyi/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Andrew Garvin"
