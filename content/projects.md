@@ -11,8 +11,7 @@ title = 'Projects'
 
 
 ### Contributions
-* [Casa](https://github.com/rubyforgood/casa/commits?author=budmin)
-* [Human Essentials](https://github.com/rubyforgood/human-essentials/commits?author=budmin)
+* [Ruby for Good](https://github.com/search?q=org%3Arubyforgood+author%3Abudmin&type=pullrequests)
 * [Exercism](https://github.com/search?q=org%3Aexercism+author%3Abudmin&type=pullrequests)
 
 
